@@ -1,0 +1,26 @@
+/* ----  CSS DU FORMAULAIRE USER LOGIN    ---*/
+
+.container-form{
+	padding-top: 60px;
+   font-family: maiandra GD;
+}
+
+.connect{
+	height: 350px;
+	width: 400px;
+	border: 1px solid #D3D3D3;
+	padding: 20px 40px!important;
+   background-color: #FFA07A!important;
+}
+
+.form-connect{
+	display: block;
+	align-items: center;
+}
+
+.form-connect >legend{
+   font-size: 40px;
+   font-weight: bold;
+   color: #ffffff;
+   text-align: center;;
+}

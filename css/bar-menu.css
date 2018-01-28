@@ -1,0 +1,41 @@
+
+body{
+  font-family: Maiandra GD!important;
+  font-size: 14px;
+  background-color: #ffffff!important;
+  }
+  
+.menu{
+  background-color:#DB7093!important;   
+  height: 100px!important;
+  margin-bottom: 0px!important; 
+  border: 1px solid transparent!important;
+}
+
+.main-menu{
+  margin-top: 20px!important;  
+  margin-bottom: 20px!important; 
+}
+
+.menu-head> img{
+  margin-left: 50px;
+  margin-top: 12px;  
+}
+
+.menu-title{
+  font-size: 30px; 
+  font-weight: bold;  
+} 
+
+.menu-title a{
+  color: #FFFFFF!important; 
+}
+
+.menu-droit{
+  font-size: 16px; 
+  font-weight: bold; 
+  margin-right: 50px; }
+
+.menu-droit a{
+  color: #FFFFFF!important; 
+}

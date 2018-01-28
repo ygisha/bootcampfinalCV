@@ -1,0 +1,13 @@
+/* -------  CSS DU FORMULAIRE INSCRIPTION   ----------*/
+
+.container-signup{
+	padding-top: 25px;
+	font-family: maiandra GD;
+	color: black!important;
+}
+
+.signupform >legend{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+}

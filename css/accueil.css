@@ -1,0 +1,22 @@
+/*  ---  CSS DU CADRE D'AFFICHAGE --- */
+
+.titre{
+margin-left: 50px;
+}
+
+.titre2{
+margin-left: 50px;
+}
+
+.contenu{
+	display: block;
+	text-align: center;
+	padding: 10px;
+}
+
+.bouton{
+	height: 20px; 
+	background-color: #DB7093!important;
+	padding: 10px;
+
+}
